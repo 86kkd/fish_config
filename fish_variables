@@ -29,5 +29,5 @@ SETUVAR fish_pager_color_description:yellow\x1e\x2di
 SETUVAR fish_pager_color_prefix:normal\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SETUVAR fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SETUVAR fish_pager_color_selected_background:\x2dr
-SETUVAR fish_user_paths:/home/linda/\x2elocal/bin
+SETUVAR fish_user_paths:/usr/include\x1e/usr/lib\x1e/home/linda/Documents/hok_env/hok_env_gamecore_20240226/gamecore/lib\x1e/home/linda/Documents/hok_env/hok_env_gamecore_20240226/gamecore/bin\x1e/home/linda/\x2elocal/bin
 SETUVAR vim:/home/linda/\x2elocal/bin/lvim

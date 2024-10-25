@@ -1,2 +1,1 @@
-alias vim 'lvim'
-
+# alias vim 'nvim'
