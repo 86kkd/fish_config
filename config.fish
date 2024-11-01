@@ -6,7 +6,7 @@ end
 fish_add_path /home/linda/.local/bin
 
 set XDG_CONFIG_HOME /home/linda/.config/fish/functions
-alias ls='eza -a --icons'
+alias ls='eza --icons'
 alias ll='eza -al --icons'
 alias lt='eza -a --tree --level=1 --icons'
 
