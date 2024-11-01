@@ -6,6 +6,9 @@ end
 fish_add_path /home/linda/.local/bin
 
 set XDG_CONFIG_HOME /home/linda/.config/fish/functions
+alias ls='eza -a --icons'
+alias ll='eza -al --icons'
+alias lt='eza -a --tree --level=1 --icons'
 
 export CRYPTOGRAPHY_OPENSSL_NO_LEGACY=1
 # >>> conda initialize >>>
